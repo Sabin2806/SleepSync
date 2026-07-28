@@ -12,7 +12,7 @@ A sleep-tracking assistant to build consistent sleep routines and improve sleep 
 
 \### 🔐 Login Page
 
-!\[Login Page](screenshots/login.PNG)
+!\[Alt Text](screenshots/login.png)
 
 
 
