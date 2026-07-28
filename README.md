@@ -9,32 +9,28 @@ A sleep-tracking assistant to build consistent sleep routines and improve sleep 
 \## 📸 Screenshots
 
 
-
 \### 🔐 Login Page
 
-!\[Alt Text](screenshots/login.png)
-
-
-
+![Login](screenshots/login.PNG)
 
 
 \### 📊 Dashboard
 
-!\[Dashboard](screenshots/dashboard.PNG)
+![Dashboard](screenshots/dashboard.PNG)
 
 
 
 \### 📈 Analytics
 
-!\[Analytics](screenshots/analytics.PNG)
+![Analytics](screenshots/analytics.PNG)
 
 
 
 \### 🤖 AI Insights
 
-!\[AI Insights](screenshots/ai-insights1.PNG)
+![AI Insights](screenshots/ai-insights1.PNG)
 
-!\[AI Insights](screenshots/ai-insights2.PNG)
+![AI Insights](screenshots/ai-insights2.PNG)
 
 
 
