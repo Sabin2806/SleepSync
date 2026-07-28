@@ -12,7 +12,7 @@ A sleep-tracking assistant to build consistent sleep routines and improve sleep 
 
 \### 🔐 Login Page
 
-!\[Login Page](screenshots/login.png)
+!\[Login Page](screenshots/login.PNG)
 
 
 
@@ -20,21 +20,21 @@ A sleep-tracking assistant to build consistent sleep routines and improve sleep 
 
 \### 📊 Dashboard
 
-!\[Dashboard](screenshots/dashboard.png)
+!\[Dashboard](screenshots/dashboard.PNG)
 
 
 
 \### 📈 Analytics
 
-!\[Analytics](screenshots/analytics.png)
+!\[Analytics](screenshots/analytics.PNG)
 
 
 
 \### 🤖 AI Insights
 
-!\[AI Insights](screenshots/ai-insights1.png)
+!\[AI Insights](screenshots/ai-insights1.PNG)
 
-!\[AI Insights](screenshots/ai-insights2.png)
+!\[AI Insights](screenshots/ai-insights2.PNG)
 
 
 
